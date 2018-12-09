@@ -1,0 +1,11 @@
+Acceptance Rate = 0.86475
+Number of Failures in Node Mapping = 541
+Number of Failures in Link Mapping = 0
+Number of Reconfigurations = 0
+Number of Failed Reconfigurations = 0
+Number of Links with size 1: 753
+Number of Links with size 2: 1082
+Number of Links with size 3: 852
+Number of Links with size 4+: 6361
+Total Number of Mapped Links: 9048
+Medium Path Length = 6.697311361665221
